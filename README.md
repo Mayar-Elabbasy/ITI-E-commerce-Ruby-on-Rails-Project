@@ -57,7 +57,7 @@ Of course you should have `Ruby on Rails` installed. check this link if you want
 
 Here is what the home page look like after adding some products
 
-![image](https://user-images.githubusercontent.com/58911754/82107883-3661fa00-972b-11ea-826c-0753ad3a0384.png)
+![image](https://user-images.githubusercontent.com/58911754/82108498-28ae7380-972f-11ea-8416-77f82763e001.png)
 
 
 
